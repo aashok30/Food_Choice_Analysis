@@ -50,3 +50,8 @@ In specific cases, data scaling techniques were applied to ensure that variables
 The choice of the K-Means clustering algorithm for this analysis was driven by its relevance to the research objectives. The selection of the optimal number of clusters (K) was performed through the Elbow method, with experimentation involving K values of 2, 3, and 4. Ultimately, K = 4 was determined to be the most suitable choice to underpin the subsequent analytical steps.
 
 This thorough analysis was conducted to provide comprehensive insights into the dietary choices and preferences of college students, contributing valuable information for research and decision-making processes.
+
+Finally, I would like to express my gratitude to Crio.Do and Borpajo for generously providing the dataset that made this analysis possible. Their contribution was invaluable in carrying out this research and drawing meaningful insights from the data.
+
+## Assistance and Inquiries:
+Please do not hesitate to contact for any inquiries or suggestions. I greatly value your input and guidance, and it is always welcome.
