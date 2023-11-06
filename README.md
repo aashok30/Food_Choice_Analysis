@@ -5,6 +5,8 @@
 
 Image Source: https://www.karmicecology.com/wp-content/uploads/2011/09/food-choices.jpg
 
+Data Source: https://www.kaggle.com/datasets/borapajo/food-choices/data & Crio.Do
+
 This study delves into the fascinating realm of food choice among college students, aiming to uncover the intricate interplay between their nutritional knowledge, childhood food preferences, and cooking practices in the family. It delves into whether these factors influence the dietary selections of young adults and whether their taste in food varies based on these factors. The analysis also examines responses to open-ended questions, including students' favorite comfort foods and preferred cuisines. By delving into these aspects, the research seeks to provide valuable insights into the food choices of today's college generation.
 
 ## Tools and Libraries Utilized:
